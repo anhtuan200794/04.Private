@@ -1,2 +1,0 @@
-batteryMon
-Speccy
